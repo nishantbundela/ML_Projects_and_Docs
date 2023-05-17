@@ -1,4 +1,4 @@
-# **Machine Learning with Python**
+# **Machine Learning with Python**  
 
 This repository contains Data Science projects. The projects here are well explained and provide descriptive explanation  of how everything works.
 [Repo Link](https://github.com/nishantbundela/machine_learning_docs.git) 
