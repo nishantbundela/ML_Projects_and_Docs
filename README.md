@@ -2,7 +2,7 @@
 
  
 ===========================================================================  
-This repository contains Data Science projects. The projects here are well explained and provide descriptive explanation  of how everything works.  
+This repository contains Machine Learning projects. The projects here are well explained and provide descriptive explanation  of how everything works.  
 [Repo Link](https://github.com/nishantbundela/machine_learning_docs.git)
 
 ===========================================================================
@@ -10,7 +10,6 @@ This repository contains Data Science projects. The projects here are well expla
 
 The following libraries were used to implement the projects.
 
-- Python 3.6+
 - NumPy (for linear algebra)
 - Pandas (for data preprocessing)
 - Scikit-learn (for machine-learning)
@@ -31,9 +30,9 @@ The projects description are given in the readme document. The projects are divi
    -  ### Supervised Learning : Regression Projects
    
    
-        * [Simple Linear Regression Project](https://github.com/pb111/Simple-Linear-Regression-Project/blob/master/SLRProject.ipynb): A Simple Linear Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.   
+        * [Simple Linear Regression Project](https://github.com/nishantbundela/machine_learning_docs/tree/master/Projects/Linear%20Regression%20Project): A Simple Linear Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.   
        
-        * [Multiple Linear Regression Project](https://github.com/pb111/Multiple-Linear-Regression-Project/blob/master/Multiple%20Linear%20Regression%20using%20Scikit-Learn.ipynb): In this project, I build a Multiple Linear Regression model to estimate the relative CPU performance of computer hardware dataset. I discuss the linear regression assumptions and various tools to estimate the model performance.
+        * [Multiple Linear Regression Project](https://github.com/nishantbundela/machine_learning_docs/tree/master/Projects/Multiple%20Linear%20Regression): In this project, I build a Multiple Linear Regression model to estimate the relative CPU performance of computer hardware dataset. I discuss the linear regression assumptions and various tools to estimate the model performance.
           
           
 ===========================================================================          
@@ -42,7 +41,7 @@ The projects description are given in the readme document. The projects are divi
    - ### Supervised Learning : Classification Projects
       
       
-        * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I train a binary Logistic Regression classifier to predict whether or not it will rain tomorrow in Australia. I have used **Rain in Australia** dataset from the Kaggle website. I have demonstrated feature engineering techniques alongwith **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and **GridSearch CV** in this project.
+        * [Logistic Regression Project](https://github.com/nishantbundela/machine_learning_docs/tree/master/Projects/Logistic%20Regression): In this project, I train a binary Logistic Regression classifier to predict whether or not it will rain tomorrow in Australia. I have used **Rain in Australia** dataset from the Kaggle website. I have demonstrated feature engineering techniques alongwith **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and **GridSearch CV** in this project.
         
                     
         * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/Support%20Vector%20Machines%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the **Predicting a Pulsar Star** dataset from the Kaggle website. I have  discussed the **kernel trick** in this project. I have used **Stratified Cross-Validation** technique alongwith **GridSearch CV** in this project.     
