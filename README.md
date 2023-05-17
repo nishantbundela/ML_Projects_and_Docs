@@ -1,11 +1,11 @@
 # **Machine Learning with Python**  
 
  
-===============================================================================  
+===========================================================================  
 This repository contains Data Science projects. The projects here are well explained and provide descriptive explanation  of how everything works.  
 [Repo Link](https://github.com/nishantbundela/machine_learning_docs.git)
 
-===============================================================================
+===========================================================================
 ## **Libraries Used**
 
 The following libraries were used to implement the projects.
@@ -20,7 +20,7 @@ The following libraries were used to implement the projects.
 - Statsmodels (statistical computation)
 
 
-===============================================================================
+===========================================================================
 
 
 The projects description are given in the readme document. The projects are divided into various categories listed below:- 
@@ -36,7 +36,7 @@ The projects description are given in the readme document. The projects are divi
         * [Multiple Linear Regression Project](https://github.com/pb111/Multiple-Linear-Regression-Project/blob/master/Multiple%20Linear%20Regression%20using%20Scikit-Learn.ipynb): In this project, I build a Multiple Linear Regression model to estimate the relative CPU performance of computer hardware dataset. I discuss the linear regression assumptions and various tools to estimate the model performance.
           
           
-===============================================================================          
+===========================================================================          
           
 
    - ### Supervised Learning : Classification Projects
@@ -63,7 +63,7 @@ The projects description are given in the readme document. The projects are divi
         * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classification-Project/blob/master/XGBoost%20with%20Python%20and%20Scikit-Learn.ipynb): **XGBoost** is an acronym for **Extreme Gradient Boosting**. In this project, I implement XGBoost with Python and Scikit-Learn to classify the customers from two different channels as Horeca (Hotel/Retail/Café) customers or Retail channel (nominal) customers. I have used **Wholesale customers data set** from UCI Machine learning repository.   
           
           
-===============================================================================
+===========================================================================
                             
        
    - ### Unsupervised Learning Projects
@@ -72,7 +72,7 @@ The projects description are given in the readme document. The projects are divi
         * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/K-Means%20Clustering%20with%20Python%20and%20Scikit-Learn.ipynb): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project from the UCI machine learning repository. 
           
  
- ===============================================================================
+ ===========================================================================
  
  
   - ### Recommender Systems Project   
@@ -80,7 +80,7 @@ The projects description are given in the readme document. The projects are divi
        - [Recommender Systems with Python](https://github.com/pb111/Recommender-Systems-with-Python/blob/master/README.md): Recommender Systems are one of the most popular and widely used application of data science. In this project, I build a Recommender System with Python. I discuss various types of recommender systems including **Content-based** and **Collaborative filtering** recommender systems. Also, I discuss **matrix factorization** and how to evaluate recommender systems.
        
        
-===============================================================================
+===========================================================================
    
   
   -  ### Statistical Analysis Projects   
@@ -94,7 +94,7 @@ The projects description are given in the readme document. The projects are divi
        - [Hypothesis Testing Project](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/README.md): **Hypothesis testing** is a statistical tool to test an assumption regarding the population parameter. This project is dedicated towards hypothesis testing. In this project, I have discussed, hypothesis testing, p-value, significance level, types of errors in hypothesis testing and one-tailed and two-tailed tests.   
        
        
-===============================================================================
+===========================================================================
        
    
   -  ### Data Cleaning and Preprocessing Projects
@@ -111,7 +111,7 @@ The projects description are given in the readme document. The projects are divi
        - [Data Preprocessing Project- Imbalanced Classes Problem](https://github.com/pb111/Data-Preprocessing-Project-Imbalanced-Classes-Problem/blob/master/Data%20Preprocessing%20Project%20-%20Imbalanced%20Classes%20Problem.ipynb): **Imbalanced classes** is a major problems in machine learning. In this project, I discuss imbalanced classes problem and the approaches to deal with this problem. I have used the **Credit Card Fraud Detection** dataset, downloaded from the Kaggle website.     
        
          
-===============================================================================        
+===========================================================================        
        
    - ### Data Analysis Projects
    
@@ -127,7 +127,7 @@ The projects description are given in the readme document. The projects are divi
        - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python/blob/master/Time%20Series%20Analysis%20in%20Python.ipynb): A time series is a series of data points recorded at different time intervals. The time series analysis means analyzing the time series. In this project, I implement a **Seasonal ARIMA time series model** in Python to predict Occupancy rates of car parks in **Parking Birmingham** Data Set.
        
  
-===============================================================================
+===========================================================================
 
   
    - ### Data Visualization Projects
