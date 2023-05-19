@@ -26,7 +26,22 @@ The projects description are given in the readme document. The projects are divi
 
 ## Contents
  
+      -  ### Data Cleaning and Preprocessing Projects
+   
+       - [Data Cleaning with Python and Pandas](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Data%20Cleaning): In this project, I discuss principles of tidy data and signs of an untidy data. I discuss EDA and present ways to deal with outliers and missing and negative numerical values. I discuss how to check for missing values with **ASSERT** statement. I present how to reshape data using the pandas melt() function.
        
+   
+       - [Data Preprocessing Project- Dealing with missing numerical values](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Missing%20Numerical%20Values): This project describes various techniques to deal with missing numerical values. I have discussed how to drop missing values, fill missing values with test-statistic and imputer. I discuss how to check for missing values with **ASSERT** statement.
+       
+       - [Data Preprocessing Project- Dealing with text and categorical data](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Text%20and%20Categorical%20Data): In this project, I discuss various Scikit-learn classes to deal with text and categorical data. The classes are LabelEncoder, OneHotEncoder, LabelBinarizer, DictVectorizer, CountVectorizer, TfidfVectorizer and TfidfTransformer. I also discuss **tokenization** and **vectorization**.
+       
+        - [Data Preprocessing Project-Feature Scaling](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Feature%20Scaling): **Feature Scaling** is the process used to standardize range of independent variables so that they can be mapped onto same scale. In this project, I have discussed useful estimators related to Feature Scaling. The estimators are MinMaxScaler, StandardScaler, MaxAbsScaler, RobustScaler, Normalizer, Binarizer and scale.
+       
+       - [Data Preprocessing Project- Imbalanced Classes Problem](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Imbalanced%20Classes%20Problem): **Imbalanced classes** is a major problems in machine learning. In this project, I discuss imbalanced classes problem and the approaches to deal with this problem. I have used the **Credit Card Fraud Detection** dataset, downloaded from the Kaggle website.     
+       
+         
+===========================================================================        
+   
    -  ### Supervised Learning : Regression Projects
    
    
@@ -96,21 +111,7 @@ The projects description are given in the readme document. The projects are divi
 ===========================================================================
        
    
-  -  ### Data Cleaning and Preprocessing Projects
-   
-       - [Data Cleaning with Python and Pandas](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Data%20Cleaning): In this project, I discuss principles of tidy data and signs of an untidy data. I discuss EDA and present ways to deal with outliers and missing and negative numerical values. I discuss how to check for missing values with **ASSERT** statement. I present how to reshape data using the pandas melt() function.
-       
-   
-       - [Data Preprocessing Project- Dealing with missing numerical values](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Missing%20Numerical%20Values): This project describes various techniques to deal with missing numerical values. I have discussed how to drop missing values, fill missing values with test-statistic and imputer. I discuss how to check for missing values with **ASSERT** statement.
-       
-       - [Data Preprocessing Project- Dealing with text and categorical data](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Text%20and%20Categorical%20Data): In this project, I discuss various Scikit-learn classes to deal with text and categorical data. The classes are LabelEncoder, OneHotEncoder, LabelBinarizer, DictVectorizer, CountVectorizer, TfidfVectorizer and TfidfTransformer. I also discuss **tokenization** and **vectorization**.
-       
-        - [Data Preprocessing Project-Feature Scaling](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Feature%20Scaling): **Feature Scaling** is the process used to standardize range of independent variables so that they can be mapped onto same scale. In this project, I have discussed useful estimators related to Feature Scaling. The estimators are MinMaxScaler, StandardScaler, MaxAbsScaler, RobustScaler, Normalizer, Binarizer and scale.
-       
-       - [Data Preprocessing Project- Imbalanced Classes Problem](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Pre-processing/Imbalanced%20Classes%20Problem): **Imbalanced classes** is a major problems in machine learning. In this project, I discuss imbalanced classes problem and the approaches to deal with this problem. I have used the **Credit Card Fraud Detection** dataset, downloaded from the Kaggle website.     
-       
-         
-===========================================================================        
+
        
    - ### Data Analysis Projects
    
