@@ -68,7 +68,7 @@ The projects description are given in the readme document. The projects are divi
    - ### Unsupervised Learning Projects
        
        
-        * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/K-Means%20Clustering%20with%20Python%20and%20Scikit-Learn.ipynb): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project from the UCI machine learning repository. 
+        * [K Means Clustering Project](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Unsupervised%20Learning/K%20Means%20Clustering): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project from the UCI machine learning repository. 
           
  
  ===========================================================================
@@ -76,7 +76,7 @@ The projects description are given in the readme document. The projects are divi
  
   - ### Recommender Systems Project   
               
-       - [Recommender Systems with Python](https://github.com/pb111/Recommender-Systems-with-Python/blob/master/README.md): Recommender Systems are one of the most popular and widely used application of data science. In this project, I build a Recommender System with Python. I discuss various types of recommender systems including **Content-based** and **Collaborative filtering** recommender systems. Also, I discuss **matrix factorization** and how to evaluate recommender systems.
+       - [Recommender Systems with Python](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Recommender%20System): Recommender Systems are one of the most popular and widely used application of data science. In this project, I build a Recommender System with Python. I discuss various types of recommender systems including **Content-based** and **Collaborative filtering** recommender systems. Also, I discuss **matrix factorization** and how to evaluate recommender systems.
        
        
 ===========================================================================
@@ -84,7 +84,7 @@ The projects description are given in the readme document. The projects are divi
   
   -  ### Statistical Analysis Projects   
    
-       - [Descriptive Statistics Project](https://github.com/pb111/Descriptive-Statistics-Project/blob/master/Descriptive%20Statistics%20with%20Python.ipynb): **Descriptive Statistics** is the subject matter of this project. It gives us the basic summary measures about the dataset.  The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). 
+       - [Descriptive Statistics Project](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Descriptive%20Statistics): **Descriptive Statistics** is the subject matter of this project. It gives us the basic summary measures about the dataset.  The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). 
        
        
        - [Inferential Statistics Project](https://github.com/pb111/Inferential-Statistics-Project/blob/master/README.md): **Inferential Statistics** is the process of drawing inferences about the population from the sample data. In this project, I have discussed various inferential statistical concepts and their practical applications. I have discussed Central Limit Theorem, t-test, ANOVA , Chi-square goodness of fit test and Correlation analysis.
