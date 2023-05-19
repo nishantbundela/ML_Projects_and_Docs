@@ -114,16 +114,16 @@ The projects description are given in the readme document. The projects are divi
        
    - ### Data Analysis Projects
    
-      - [Exploratory Data Analysis with Python](https://github.com/pb111/Exploratory-Data-Analysis-with-Python-Project/blob/master/Exploratory%20Data%20Analysis%20with%20Python.ipynb): This project is all about Exploratory Data Analysis. In this project, I explore the **Absenteeism at work dataset**. I discuss univariate and multivariate useful techniques to explore this dataset.
+      - [Exploratory Data Analysis with Python](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Exploratory%20Data%20Analysis): This project is all about Exploratory Data Analysis. In this project, I explore the **Absenteeism at work dataset**. I discuss univariate and multivariate useful techniques to explore this dataset.
       
       
-      - [Data Analysis with Pandas](https://github.com/pb111/Data-Analysis-with-Pandas/blob/master/Data%20Analysis%20with%20Pandas.ipynb): **Pandas** is an open source library for data analysis in Python. In this project, I explore Pandas and important data analysis tools of pandas. I have used the **BlackFriday** dataset downloaded from Kaggle website.
+      - [Data Analysis with Pandas](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Data%20Analysis%20with%20Pandas): **Pandas** is an open source library for data analysis in Python. In this project, I explore Pandas and important data analysis tools of pandas. I have used the **BlackFriday** dataset downloaded from Kaggle website.
 
       
-       - [Data Analysis with NumPy](https://github.com/pb111/Data-Analysis-with-NumPy/blob/master/Data%20Analysis%20with%20NumPy.ipynb): **NumPy** is the fundamental library of Python which is required for scientific computing. In this project, I explore NumPy and various data analysis tools of NumPy.
+       - [Data Analysis with NumPy](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Data%20Analysis%20with%20Numpy): **NumPy** is the fundamental library of Python which is required for scientific computing. In this project, I explore NumPy and various data analysis tools of NumPy.
        
        
-       - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python/blob/master/Time%20Series%20Analysis%20in%20Python.ipynb): A time series is a series of data points recorded at different time intervals. The time series analysis means analyzing the time series. In this project, I implement a **Seasonal ARIMA time series model** in Python to predict Occupancy rates of car parks in **Parking Birmingham** Data Set.
+       - [Time Series Analysis with Python](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Time%20Series%20Analysis): A time series is a series of data points recorded at different time intervals. The time series analysis means analyzing the time series. In this project, I implement a **Seasonal ARIMA time series model** in Python to predict Occupancy rates of car parks in **Parking Birmingham** Data Set.
        
  
 ===========================================================================
@@ -131,7 +131,7 @@ The projects description are given in the readme document. The projects are divi
   
    - ### Data Visualization Projects
      
-       - [Data Visualization with Matplotlib](https://github.com/pb111/Data-Visualization-with-Matplotlib-Project/blob/master/Data%20Visualization%20with%20Matplotlib.ipynb): **Matplotlib** is the basic data visualization library of Python. In this project, I describe Matplotlib, its object hierarchy, its interfaces, different plot types with Matplotlib and various customization techniques with Matplotlib.
+       - [Data Visualization with Matplotlib](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Visualization%20using%20Matplotlib): **Matplotlib** is the basic data visualization library of Python. In this project, I describe Matplotlib, its object hierarchy, its interfaces, different plot types with Matplotlib and various customization techniques with Matplotlib.
        
-       - [Data Visualization with Seaborn](https://github.com/pb111/Data-Visualization-with-Seaborn): **Seaborn** is a Python data visualization library based on Matplotlib. In this project, I explore Seaborn. I discuss Seaborn API overview, its functionality, setting Seaborn aesthetic parameters and colour palette. I discuss different distributions, various plot types and multi-plot grids 
+       - [Data Visualization with Seaborn](https://github.com/nishantbundela/ML_Projects_and_Docs/tree/master/Projects/Visualization%20using%20Seaborn): **Seaborn** is a Python data visualization library based on Matplotlib. In this project, I explore Seaborn. I discuss Seaborn API overview, its functionality, setting Seaborn aesthetic parameters and colour palette. I discuss different distributions, various plot types and multi-plot grids 
 with seaborn.  
